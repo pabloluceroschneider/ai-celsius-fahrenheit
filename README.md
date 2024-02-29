@@ -20,4 +20,5 @@ FLASK_DEBUG=1 flask run
 ```curl
 curl --location 'http://127.0.0.1:{PORT}/?q=100.0'
 ```
-<img width="1007" alt="image" src="https://github.com/pabloluceroschneider/ai-celsius-fahrenheit/assets/43233080/0bcad273-411f-4d96-bf69-fdfb207d5d22">
+<img width="632" alt="image" src="https://github.com/pabloluceroschneider/ai-celsius-fahrenheit/assets/43233080/6d86dad1-2ecb-4fae-8c56-80168d4ee71b">
+
