@@ -12,4 +12,4 @@ def predict():
     
     y = cf_model.predict(q)
     
-    return jsonify({ "x": q, "y": y })
+    return jsonify({ "celsius": q, "fahrenheit": y })
