@@ -1,3 +1,10 @@
+<div align="center">
+  <h1 align="center">Celsius-Fahrenheit Model</h1>
+  
+  <img height="120" src="https://github.com/pabloluceroschneider/ai-celsius-fahrenheit/assets/43233080/8557e1bb-631a-40b1-94fb-a4eaead95bb1" alt="tech" />  
+</div>
+<hr/>
+
 ### Commands
 
 ```bash
